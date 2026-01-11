@@ -66,7 +66,7 @@ flowchart TB
     PS <--> TS
     IS <--> TS
     
-    style OS fill:#4a90d9,stroke:#2c5aa0,color:#fff
+    style OS fill:#4a90d9,stroke:#white,color:#fff
     style PS fill:#4a90d9,stroke:#2c5aa0,color:#fff
     style IS fill:#4a90d9,stroke:#2c5aa0,color:#fff
     style TS fill:#50c878,stroke:#3da35d,color:#fff
